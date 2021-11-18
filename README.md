@@ -1,1 +1,1 @@
-# Wages_CPI
+# Wages v CPI
